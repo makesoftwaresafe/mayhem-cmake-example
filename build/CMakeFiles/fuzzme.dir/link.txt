@@ -1,0 +1,1 @@
+/usr/bin/clang -fsanitize=fuzzer CMakeFiles/fuzzme.dir/fuzzme.c.o -o fuzzme 
